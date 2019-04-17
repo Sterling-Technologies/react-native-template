@@ -1,0 +1,8 @@
+{
+  "host": "https://api.moni.co/",
+  "rest_url": "https://api.moni.co/rest/",
+  "env": "production",
+  "sentry_dsn": "https://fc3da342224a4525941fb393de355f08@sentry.io/1371548",
+  "salt": "MnKcBtRK1t4a2qzd7V32QheB33uY6DNv",
+  "resend_code_timer": 30
+}

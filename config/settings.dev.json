@@ -1,0 +1,8 @@
+{
+  "host": "http://192.168.0.194:3000/",
+  "rest_url": "http://192.168.0.194:3000/rest/",
+  "env": "development",
+  "sentry_dsn": "https://fc3da342224a4525941fb393de355f08@sentry.io/1371548",
+  "salt": "UpxWhkfXITSLnjzrsUoUrtg7lLsxqjmM",
+  "resend_code_timer": 30
+}

@@ -1,0 +1,8 @@
+{
+  "host": "http://173.255.211.174:8000/",
+  "rest_url": "http://173.255.211.174:8000/rest/",
+  "env": "staging",
+  "sentry_dsn": "https://fc3da342224a4525941fb393de355f08@sentry.io/1371548",
+  "salt": "CdsLgU8s4z8GzghOZcwgc6nb2jRsqrVk",
+  "resend_code_timer": 30
+}
