@@ -1,5 +1,4 @@
 import API from '@library/API';
-import { Ethereum } from '@library/blockchain';
 import app from '@library/AppHandler';
 
 var api = {};
